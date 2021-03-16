@@ -12,4 +12,4 @@ $ sudo apt-get install ipython-notebook
 (4)启动ipython notebook
 $ ipython notebook
 ```
-参考：https://gitee.com/pi-lab/SummerCamp/blob/master/tool/notebook/README.md
+[ipython notebook介绍与使用](https://gitee.com/pi-lab/SummerCamp/blob/master/tool/notebook/README.md)
