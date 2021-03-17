@@ -5,3 +5,5 @@
 [git使用笔记](https://www.jianshu.com/p/36342812cd3a)
 
 [git分支管理](https://blog.csdn.net/ShuSheng0007/article/details/80791849)
+
+[搭建git服务器](https://www.liaoxuefeng.com/wiki/896043488029600/899998870925664)
