@@ -9,3 +9,5 @@
 [搭建git服务器](https://www.liaoxuefeng.com/wiki/896043488029600/899998870925664)
 
 [Gitosis管理公钥](https://github.com/res0nat0r/gitosis)
+
+[Gitolite管理权限](https://github.com/sitaramc/gitolite)
