@@ -11,3 +11,7 @@
 [Gitosis管理公钥](https://github.com/res0nat0r/gitosis)
 
 [Gitolite管理权限](https://github.com/sitaramc/gitolite)
+
+[Git官方网站](http://git-scm.com/)
+
+[Git-cheat-sheet](https://liaoxuefeng.gitee.io/resource.liaoxuefeng.com/git/git-cheat-sheet.pdf)
